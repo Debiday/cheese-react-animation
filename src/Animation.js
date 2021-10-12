@@ -11,7 +11,7 @@ import C7 from './assets/Cheese20.png'
 class Animation extends Component {
   render () {
     return <Keyframes component="pre" loop={true} className="cheeseimg">
-      <Frame duration={2500} >
+      <Frame duration={2000} >
         <img src={C1} alt="1"/>    
       </Frame>
       <Frame duration={20} >

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cheese-react-animation/static/css/main.793187e6.chunk.css",
+    "main.js": "/cheese-react-animation/static/js/main.61f7d0f4.chunk.js",
+    "main.js.map": "/cheese-react-animation/static/js/main.61f7d0f4.chunk.js.map",
+    "runtime-main.js": "/cheese-react-animation/static/js/runtime-main.58d8462b.js",
+    "runtime-main.js.map": "/cheese-react-animation/static/js/runtime-main.58d8462b.js.map",
+    "static/js/2.3c40da8c.chunk.js": "/cheese-react-animation/static/js/2.3c40da8c.chunk.js",
+    "static/js/2.3c40da8c.chunk.js.map": "/cheese-react-animation/static/js/2.3c40da8c.chunk.js.map",
+    "index.html": "/cheese-react-animation/index.html",
+    "static/css/main.793187e6.chunk.css.map": "/cheese-react-animation/static/css/main.793187e6.chunk.css.map",
+    "static/js/2.3c40da8c.chunk.js.LICENSE.txt": "/cheese-react-animation/static/js/2.3c40da8c.chunk.js.LICENSE.txt",
+    "static/media/Cheese10.0c7901e0.png": "/cheese-react-animation/static/media/Cheese10.0c7901e0.png",
+    "static/media/Cheese16.cd0be554.png": "/cheese-react-animation/static/media/Cheese16.cd0be554.png",
+    "static/media/Cheese20.36d6dca1.png": "/cheese-react-animation/static/media/Cheese20.36d6dca1.png",
+    "static/media/Cheese3.a8c604ca.png": "/cheese-react-animation/static/media/Cheese3.a8c604ca.png",
+    "static/media/Cheese5.38b40794.png": "/cheese-react-animation/static/media/Cheese5.38b40794.png",
+    "static/media/Cheese6.cd0be554.png": "/cheese-react-animation/static/media/Cheese6.cd0be554.png",
+    "static/media/Cheese8.9bab58bc.png": "/cheese-react-animation/static/media/Cheese8.9bab58bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d8462b.js",
+    "static/js/2.3c40da8c.chunk.js",
+    "static/css/main.793187e6.chunk.css",
+    "static/js/main.61f7d0f4.chunk.js"
+  ]
+}

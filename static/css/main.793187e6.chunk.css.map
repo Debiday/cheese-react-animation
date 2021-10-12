@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,WACE,aAAc,CACd,gBAAiB,CACjB,iBAAkB,CAClB,SACF","file":"main.793187e6.chunk.css","sourcesContent":[".cheeseimg {\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n  width: 80%;\n}"]}

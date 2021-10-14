@@ -6,4 +6,4 @@ Created with react and react-frames, with a great guide on [keyframes](https://r
 
 Made for a fun [token](https://adnjoo.github.io/smartcheese/) called SmartCheese 🧀 
 
-![🧀 ](https://github.com/Debiday/cheese-react-animation/public/react-dgraph.gif)
+![🧀 ](https://github.com/Debiday/cheese-react-animation/blob/master/public/cheese.gif)

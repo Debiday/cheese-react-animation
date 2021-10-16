@@ -37,7 +37,6 @@ function Animation() {
         <img src={C1} alt="1"/>    
       </Frame>
     </Keyframes>
-    
   }
 
 

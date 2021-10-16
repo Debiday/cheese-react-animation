@@ -1,4 +1,3 @@
-import { Component } from 'react'
 import { Keyframes, Frame } from 'react-keyframes'
 import C1 from './assets/Cheese3.png'
 import C2 from './assets/Cheese5.png'
@@ -8,8 +7,7 @@ import C5 from './assets/Cheese10.png'
 import C6 from './assets/Cheese16.png'
 import C7 from './assets/Cheese20.png'
 
-class Animation extends Component {
-  render () {
+function Animation() {
     return <Keyframes component="pre" loop={true} className="cheeseimg">
       <Frame duration={2500} >
         <img src={C1} alt="1"/>    
@@ -41,6 +39,6 @@ class Animation extends Component {
     </Keyframes>
     
   }
-}
+
 
 export default Animation
